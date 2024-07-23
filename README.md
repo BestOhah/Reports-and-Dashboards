@@ -9,3 +9,5 @@ Employee Demographics: Visualize data on employee age, gender, race, and more.
 Turnover Analysis: Track and analyze employee turnover rates over time.
 Tenure Distribution: Understand the distribution of employee tenure across the organization.
 Hiring and Termination Trends: Monitor hiring and termination trends to make informed HR decisions.
+
+#### The dashboard can be found [here](HR Dashboard.pbix)
